@@ -1,0 +1,12 @@
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\bin\Debug\net8.0\KYS.Entities.deps.json
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\bin\Debug\net8.0\KYS.Entities.dll
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\bin\Debug\net8.0\KYS.Entities.pdb
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.AssemblyInfoInputs.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.AssemblyInfo.cs
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.sourcelink.json
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.dll
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\refint\KYS.Entities.dll
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\KYS.Entities.pdb
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Entities\obj\Debug\net8.0\ref\KYS.Entities.dll

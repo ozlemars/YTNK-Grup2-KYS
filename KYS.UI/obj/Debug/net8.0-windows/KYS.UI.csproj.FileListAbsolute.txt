@@ -1,0 +1,8 @@
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.csproj.AssemblyReference.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.Form1.resources
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.csproj.GenerateResource.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.AssemblyInfoInputs.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.AssemblyInfo.cs
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.csproj.CoreCompileInputs.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.UI\obj\Debug\net8.0-windows\KYS.UI.sourcelink.json

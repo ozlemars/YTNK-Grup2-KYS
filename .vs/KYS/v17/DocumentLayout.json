@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B2606F-329A-4C0B-9C6C-68F965565F75}|KYS.Entities\\KYS.Entities.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B2606F-329A-4C0B-9C6C-68F965565F75}|KYS.Entities\\KYS.Entities.csproj|solutionrelative:kys.entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B2606F-329A-4C0B-9C6C-68F965565F75}|KYS.Entities\\KYS.Entities.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.entities\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B2606F-329A-4C0B-9C6C-68F965565F75}|KYS.Entities\\KYS.Entities.csproj|solutionrelative:kys.entities\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|Solution Items{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|Solution Items{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|solutionrelative:Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|Solution Items{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\App.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|Solution Items{3E5BA74C-7AAF-48FC-B198-E692FF7B2244}|solutionrelative:App.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.business\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|solutionrelative:kys.business\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.business\\validators\\duyurularvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|solutionrelative:kys.business\\validators\\duyurularvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C53405-D942-46B9-A673-3D3F5FFFC299}|KYS.DataAccess\\KYS.DataAccess.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.dataaccess\\kys.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19C53405-D942-46B9-A673-3D3F5FFFC299}|KYS.DataAccess\\KYS.DataAccess.csproj|solutionrelative:kys.dataaccess\\kys.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.business\\validators\\commentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|solutionrelative:kys.business\\validators\\commentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.business\\validators\\booktypevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|solutionrelative:kys.business\\validators\\booktypevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.business\\validators\\authorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233A7B6-064D-43AB-922E-CFCD40E6BAB1}|KYS.Business\\KYS.Business.csproj|solutionrelative:kys.business\\validators\\authorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C53405-D942-46B9-A673-3D3F5FFFC299}|KYS.DataAccess\\KYS.DataAccess.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.dataaccess\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C53405-D942-46B9-A673-3D3F5FFFC299}|KYS.DataAccess\\KYS.DataAccess.csproj|solutionrelative:kys.dataaccess\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C53405-D942-46B9-A673-3D3F5FFFC299}|KYS.DataAccess\\KYS.DataAccess.csproj|c:\\users\\gizem\\onedrive\\documents\\github\\grup2-kys\\kys\\kys.dataaccess\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C53405-D942-46B9-A673-3D3F5FFFC299}|KYS.DataAccess\\KYS.DataAccess.csproj|solutionrelative:kys.dataaccess\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE5501C-4D32-4320-99B0-69808370A763}|KYS.UI\\KYS.UI.csproj|C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\kys.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DE5501C-4D32-4320-99B0-69808370A763}|KYS.UI\\KYS.UI.csproj|solutionrelative:kys.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Entities\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "KYS.Entities\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Entities\\Models\\Author.cs",
+              "RelativeToolTip": "KYS.Entities\\Models\\Author.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:45:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\Notes.txt",
+              "RelativeDocumentMoniker": "Notes.txt",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\Notes.txt",
+              "RelativeToolTip": "Notes.txt",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T09:29:36.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\App.Config",
+              "RelativeDocumentMoniker": "App.Config",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\App.Config",
+              "RelativeToolTip": "App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T09:38:55.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "KYS.Business\\Validators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "KYS.Business\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Entities\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "KYS.Entities\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Entities\\Models\\Book.cs",
+              "RelativeToolTip": "KYS.Entities\\Models\\Book.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvxkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:53:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KYS.DataAccess",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.DataAccess\\KYS.DataAccess.csproj",
+              "RelativeDocumentMoniker": "KYS.DataAccess\\KYS.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.DataAccess\\KYS.DataAccess.csproj",
+              "RelativeToolTip": "KYS.DataAccess\\KYS.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T09:37:44.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DuyurularValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\DuyurularValidator.cs",
+              "RelativeDocumentMoniker": "KYS.Business\\Validators\\DuyurularValidator.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\DuyurularValidator.cs",
+              "RelativeToolTip": "KYS.Business\\Validators\\DuyurularValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:43.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\CommentValidator.cs",
+              "RelativeDocumentMoniker": "KYS.Business\\Validators\\CommentValidator.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\CommentValidator.cs",
+              "RelativeToolTip": "KYS.Business\\Validators\\CommentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookTypeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\BookTypeValidator.cs",
+              "RelativeDocumentMoniker": "KYS.Business\\Validators\\BookTypeValidator.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\BookTypeValidator.cs",
+              "RelativeToolTip": "KYS.Business\\Validators\\BookTypeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:41.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\AuthorValidator.cs",
+              "RelativeDocumentMoniker": "KYS.Business\\Validators\\AuthorValidator.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.Business\\Validators\\AuthorValidator.cs",
+              "RelativeToolTip": "KYS.Business\\Validators\\AuthorValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.DataAccess\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "KYS.DataAccess\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.DataAccess\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "KYS.DataAccess\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:33.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.DataAccess\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "KYS.DataAccess\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.DataAccess\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "KYS.DataAccess\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:26.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "KYS.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\gizem\\OneDrive\\Documents\\GitHub\\Grup2-KYS\\KYS\\KYS.UI\\Form1.cs [Design]",
+              "RelativeToolTip": "KYS.UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:12:44.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

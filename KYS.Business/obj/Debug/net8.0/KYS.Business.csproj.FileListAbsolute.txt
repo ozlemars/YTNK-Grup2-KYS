@@ -1,0 +1,6 @@
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Business\obj\Debug\net8.0\KYS.Business.csproj.AssemblyReference.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Business\obj\Debug\net8.0\KYS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Business\obj\Debug\net8.0\KYS.Business.AssemblyInfoInputs.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Business\obj\Debug\net8.0\KYS.Business.AssemblyInfo.cs
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Business\obj\Debug\net8.0\KYS.Business.csproj.CoreCompileInputs.cache
+C:\Users\gizem\OneDrive\Documents\GitHub\Grup2-KYS\KYS\KYS.Business\obj\Debug\net8.0\KYS.Business.sourcelink.json
